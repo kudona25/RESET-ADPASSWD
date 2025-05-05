@@ -26,7 +26,7 @@ namespace ADPASSWD3
             {
                 var handler = new HttpClientHandler()
                 {
-                    Proxy = new WebProxy("http://10.84.128.220:8080", false),
+                    Proxy = new WebProxy("http://192.168.1.2:8080", false),
                     UseProxy = true
                 };
 
