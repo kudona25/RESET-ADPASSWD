@@ -4,7 +4,8 @@ This project provides a web-based tool for managing and validating password chan
 
 ## 🔐 Purpose
 
-The tool was developed in response to findings from HQ via CrowdStrike, which detected a significant number of compromised passwords within our AD environment. To mitigate this risk and comply with organizational security standards, I implemented a custom password validation system to guide users toward setting stronger, more secure passwords.
+This tool was developed to help users change their Active Directory passwords securely and conveniently through a web interface. It enforces strong password policies to reduce the risk of weak or predictable passwords and improves overall security hygiene within an AD environment. Additionally, it integrates with the Have I Been Pwned API to check whether a password has been exposed in known data breaches.
+
 
 ## ✅ Key Features
 
