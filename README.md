@@ -46,3 +46,6 @@ This tool was developed to help users change their Active Directory passwords se
 3. Run PowerShell scripts with appropriate privileges
 4. Monitor and improve rules based on feedback
 
+## Screenshot
+
+![alt text](https://github.com/kudona25/RESET-ADPASSWD/blob/main/Screenshot.png?raw=true)
